@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "464489394420",
+    "project_id": "machine-test-7cdaf",
+    "storage_bucket": "machine-test-7cdaf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464489394420:android:5a45d8657d6ee729d82ea1",
+        "android_client_info": {
+          "package_name": "com.example.machine_test_mohit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU5I2cHDWvNE9FB1pLSceLiVaQXrY5MRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
